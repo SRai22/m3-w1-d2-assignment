@@ -1,0 +1,33 @@
+{
+  "name": "assignment-node-app",
+  "version": "1.0.0",
+  "description": "Node app for form registration",
+  "main": "start.js",
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRai22/m3-w1-d2-assignment.git"
+  },
+  "keywords": [
+    "express",
+    "pug",
+    "registration"
+  ],
+  "author": "Shravan S Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRai22/m3-w1-d2-assignment/issues"
+  },
+  "homepage": "https://github.com/SRai22/m3-w1-d2-assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
