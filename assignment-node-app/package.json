@@ -23,8 +23,11 @@
   "homepage": "https://github.com/SRai22/m3-w1-d2-assignment#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "express-validator": "^7.2.1",
+    "http-auth": "^4.2.0",
+    "mongoose": "^8.9.5",
     "pug": "^3.0.3"
   },
   "devDependencies": {
